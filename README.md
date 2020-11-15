@@ -4,7 +4,7 @@ This is my portfolio website built in React to showcase my projects and skills.
 
 https://zeeshanalam39.github.io/portfolio/
 
-![Preview](/public/preview.png)
+![Preview](public/preview.png)
 
 ## Tech/Tools Used
 
