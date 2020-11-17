@@ -24,7 +24,7 @@
 
 .skill {
   width: 60%;
-  margin: 1rem;
+  margin: 0.8rem;
 }
 
 .skill-name {
@@ -43,5 +43,11 @@
 @media screen and (max-width: 768px) {
   .skill {
     width: 90%;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .skill {
+    margin: 0.5rem 1rem;
   }
 }

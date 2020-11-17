@@ -32,3 +32,12 @@ a {
 a:hover {
   filter: brightness(80%);
 }
+
+@media screen and (max-width: 450px) {
+  .footer-container {
+    height: 5vh;
+  }
+  ul li {
+    font-size: 0.8rem;
+  }
+}
