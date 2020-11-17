@@ -10,6 +10,11 @@ const aboutDesc = `Hi! I'm ${userName}, final year student of Computer Engineeri
 
 const langs = [
   {
+    name: "Data Structures",
+    percentage: 90,
+    color: "#581845"
+  },
+  {
     name: "Vanilla JavaScript",
     percentage: 80,
     color: "#f7df1e"
